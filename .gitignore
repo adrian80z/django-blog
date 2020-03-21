@@ -47,5 +47,6 @@ $RECYCLE.BIN/
 .django_blog
 __pycache__
 db.sqlite3 
+env.py
 
 
